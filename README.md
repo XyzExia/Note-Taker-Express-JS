@@ -1,7 +1,8 @@
 # Note Taker
 
 ## Summary
-A simple app that takes notes. Can save and delete
+A simple app that takes notes. Can save and delete.
+deloyed on heroku. Currently live
 
 ## User Story
 
